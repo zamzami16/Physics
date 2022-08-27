@@ -36,8 +36,8 @@ $${I=\int{r^2 dm}}$$
 
 | Benda                                     | Momen Inersia            |
 | ----------------------------------------- | ------------------------ |
-| Batang homogen diputar di **Pusat**       | $${I={1\over 12} mr^2}$$ |
-| Batang homogen diputar di **Tepi**        | $${I={1\over 3} mr^2}$$  |
+| Batang homogen diputar di **Pusat**       | $${I={1\over 12} mL^2}$$ |
+| Batang homogen diputar di **Tepi**        | $${I={1\over 3} mL^2}$$  |
 | Silinder Pejal Poros melalui **Pusat**    | $${I={1\over 2} mr^2}$$  |
 | Silinder Berongga Poros melalui **Pusat** | $${I=mr^2}$$             |
 | Bola Pejal Poros melalui **Pusat**        | $${I={2\over 5} mr^2}$$  |
@@ -76,3 +76,9 @@ $${E_{k_{tot}}=E_{k_{trans}}+E_{k_{rot}}={1 \over 2}mv^2 + {1 \over 2}I \omega^2
 
 $${E_{m_{1}}=E_{m_{2}}}$$
 $${E_{p_{1}}+E_{k_{trans_{1}}}+E_{k_{rot_{1}}} = E_{p_{2}}+E_{k_{trans_{2}}}+E_{k_{rot_{2}}}}$$
+
+
+```
+Thank's
+```
+
