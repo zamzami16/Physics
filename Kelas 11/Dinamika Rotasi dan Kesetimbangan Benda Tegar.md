@@ -10,7 +10,8 @@ $$
 
 ### Torsi untuk n-buah Gaya
 
-$${\tau = \sum_{i=1}^n{\tau_i}}$$
+$${\tau = \sum_{i=1}^n {\tau_i}}$$
+
 Aturan:
 
 - Torsi bernilai (+) jika searah Jarum Jam
