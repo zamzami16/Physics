@@ -5,9 +5,4 @@
 $$
 {\tau = F.r.sin(\alpha)}
 $$
-
-$${\tau}$$ = Torsi (N.m)
-
-<!-- | ----------- | ----------- | -->
-
-| $${\tau}$$ | : | Torsi |
+![001-torsi.png](source/001-torsi.png)
