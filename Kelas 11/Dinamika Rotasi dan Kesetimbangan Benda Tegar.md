@@ -75,10 +75,9 @@ $${E_{k_{tot}}=E_{k_{trans}}+E_{k_{rot}}={1 \over 2}mv^2 + {1 \over 2}I \omega^2
 ### Energi Mekanik pada Gerak Menggelinding
 
 $${E_{m_{1}}=E_{m_{2}}}$$
-$${E_{p_{1}}+E_{k_{trans_{1}}}+E_{k_{rot_{1}}} = E_{p_{2}}+E_{k_{trans_{2}}}+E_{k_{rot_{2}}}}$$
 
+$${E_{p_{1}}+E_{k_{trans_{1}}}+E_{k_{rot_{1}}} = E_{p_{2}}+E_{k_{trans_{2}}}+E_{k_{rot_{2}}}}$$
 
 ```
 Thank's
 ```
-
